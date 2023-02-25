@@ -1,0 +1,10 @@
+#increment_decrement{
+  display: flex;
+  place-content: center;
+}
+#increment_decrement button{
+  margin: 20px;
+}
+h1{
+  text-align: center;
+}
